@@ -79,8 +79,10 @@ return 0;
 
 ```
 # OUTPUT
-<img width="1174" height="1115" alt="Screenshot 2025-09-01 141208" src="https://github.com/user-attachments/assets/67b1bab9-c947-4813-ae70-a211ccc32e84" />
-<img width="845" height="838" alt="Screenshot 2025-09-01 141214" src="https://github.com/user-attachments/assets/740b20b1-7323-406e-b636-c8a150f0159e" />
+<img width="1095" height="1061" alt="image" src="https://github.com/user-attachments/assets/e8fdc8d6-bc14-4834-836e-cf4bcb0b00c2" />
+<img width="969" height="901" alt="image" src="https://github.com/user-attachments/assets/5363c231-5011-445e-ad79-baaad6b68b69" />
+
+
 
 
 # RESULT
